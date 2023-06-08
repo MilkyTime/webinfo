@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2880 1800" style="enable-background:new 0 0 2880 1800;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#AI_斜角阴影_1);}
+	.st1{fill:url(#prefix-o3R-形状结合_2_);}
+	.st2{fill:url(#prefix-foU-矩形_2_);}
+	.st3{fill:url(#prefix-Sl6-椭圆形_2_);}
+	.st4{fill:url(#prefix-v7i-椭圆形备份_2_);}
+	.st5{fill:url(#prefix-xdW-椭圆形备份-2_2_);}
+	.st6{fill:url(#prefix-K51-矩形_2_);}
+	.st7{fill:url(#prefix-0T9-矩形备份_2_);}
+	.st8{fill:url(#prefix-vwx-矩形_2_);}
+	.st9{fill:url(#prefix-7PN-矩形备份_2_);}
+</style>
+<filter  height="140%" id="AI_斜角阴影_1" width="140%" x="-20%" y="-20%">
+	<feGaussianBlur  in="SourceAlpha" result="blur" stdDeviation="4"></feGaussianBlur>
+	<feOffset  dx="4" dy="4" in="blur" result="offsetBlur"></feOffset>
+	
+		<feSpecularLighting  in="blur" result="specOut" specularConstant="1" specularExponent="10" style="lighting-color:white" surfaceScale="5">
+		<fePointLight  x="-5000" y="-10000" z="-20000"></fePointLight>
+	</feSpecularLighting>
+	<feComposite  in="specOut" in2="SourceAlpha" operator="in" result="specOut"></feComposite>
+	<feComposite  in="SourceGraphic" in2="specOut" k1="0" k2="1" k3="1" k4="0" operator="arithmetic" result="litPaint">
+		</feComposite>
+	<feMerge>
+		<feMergeNode  in="offsetBlur"></feMergeNode>
+		<feMergeNode  in="litPaint"></feMergeNode>
+	</feMerge>
+</filter>
+<g id="content" transform="matrix(1,0,0,1,76.55,0)" class="st0">
+	<g>
+		
+			<linearGradient id="prefix-o3R-形状结合_2_" gradientUnits="userSpaceOnUse" x1="1057.8872" y1="1300.021" x2="1057.8872" y2="1295.521" gradientTransform="matrix(268.96 0 0 -315.3133 -283173.2812 410077.1875)">
+			<stop  offset="0" style="stop-color:#DA5E78"/>
+			<stop  offset="1" style="stop-color:#B43043"/>
+		</linearGradient>
+		<path id="prefix-o3R-形状结合_1_" class="st1" d="M1957.3,1196.87l3.96,6.35l-602.44,376.53l-1.53,2.44l-1.2-0.75l-1.17,0.75
+			l-1.53-2.44l-602.44-376.51l3.96-6.36l601.2,375.74l601.2-375.75V1196.87z M1359.85,163.28v646.66l592.5,370.32V532h7.5v652.95
+			l1.41,0.9l-1.41,2.24v8.03h-7.5v-7l-592.5-370.33v703.01h-7.5V818.77l-592.5,370.33v7h-7.5v-8.01l-1.41-2.25l1.41-0.9V532h7.5
+			v648.27l592.5-370.32V163.28H1359.85z"/>
+		
+			<linearGradient id="prefix-foU-矩形_2_" gradientUnits="userSpaceOnUse" x1="1054.1866" y1="1299.1764" x2="1056.6616" y2="1296.6115" gradientTransform="matrix(134.1429 134.1429 134.1429 -134.1429 -314324.875 33063.4102)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<path id="prefix-foU-矩形_1_" class="st2" d="M1959.71,532L1356.1,905.76L752.43,532l603.69-376.07L1959.71,532L1959.71,532z
+			 M1703.85,531.63l-347.76-216.66l-347.78,216.66l347.78,215.35L1703.85,531.63L1703.85,531.63z"/>
+		
+			<linearGradient id="prefix-Sl6-椭圆形_2_" gradientUnits="userSpaceOnUse" x1="1029.7332" y1="1302.9655" x2="1032.2081" y2="1300.4005" gradientTransform="matrix(26.6667 0 0 -26.6667 -26728.3828 35921.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<circle id="prefix-Sl6-椭圆形_1_" class="st3" cx="763.6" cy="1209.53" r="60"/>
+		
+			<linearGradient id="prefix-v7i-椭圆形备份_2_" gradientUnits="userSpaceOnUse" x1="1047.2332" y1="1292.028" x2="1049.7081" y2="1289.463" gradientTransform="matrix(26.6667 0 0 -26.6667 -26595.0488 36005)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<circle id="prefix-v7i-椭圆形备份_1_" class="st4" cx="1363.6" cy="1584.53" r="60"/>
+		
+			<linearGradient id="prefix-xdW-椭圆形备份-2_2_" gradientUnits="userSpaceOnUse" x1="1064.7332" y1="1302.9655" x2="1067.2081" y2="1300.4005" gradientTransform="matrix(26.6667 0 0 -26.6667 -26461.7168 35921.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<circle id="prefix-xdW-椭圆形备份-2_1_" class="st5" cx="1963.6" cy="1209.53" r="60"/>
+		
+			<linearGradient id="prefix-K51-矩形_2_" gradientUnits="userSpaceOnUse" x1="1038.3876" y1="1305.5887" x2="1039.2426" y2="1303.0237" gradientTransform="matrix(29.86 0 0 -50 -30068.3945 66101.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<path id="prefix-K51-矩形_1_" class="st6" d="M883.6,774.53l134.37,82.94v142.06L883.6,916.6V774.53z"/>
+		
+			<linearGradient id="prefix-0T9-矩形备份_2_" gradientUnits="userSpaceOnUse" x1="1043.8575" y1="1303.4886" x2="1044.7125" y2="1300.9237" gradientTransform="matrix(29.86 0 0 -50 -30021.7266 66131.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<path id="prefix-0T9-矩形备份_1_" class="st7" d="M1093.6,909.53l134.37,82.94v142.06l-134.37-82.94V909.53z"/>
+		
+			<linearGradient id="prefix-vwx-矩形_2_" gradientUnits="userSpaceOnUse" x1="1057.1593" y1="1305.5887" x2="1058.0143" y2="1303.0237" gradientTransform="matrix(-29.86 0 0 -50 33355.4883 66101.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<path id="prefix-vwx-矩形_1_" class="st8" d="M1842.97,774.53l-134.37,82.94v142.06l134.37-82.94V774.53z"/>
+		
+			<linearGradient id="prefix-7PN-矩形备份_2_" gradientUnits="userSpaceOnUse" x1="1062.6293" y1="1303.4886" x2="1063.4843" y2="1300.9237" gradientTransform="matrix(-29.86 0 0 -50 33308.8203 66131.6641)">
+			<stop  offset="0" style="stop-color:#FA7F67"/>
+			<stop  offset="1" style="stop-color:#FA375B"/>
+		</linearGradient>
+		<path id="prefix-7PN-矩形备份_1_" class="st9" d="M1632.97,909.53l-134.37,82.94v142.06l134.37-82.94V909.53z"/>
+	</g>
+</g>
+</svg>
