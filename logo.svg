@@ -1,0 +1,122 @@
+<svg width="600" height="442" xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet">
+ <desc>Created with Snap</desc>
+ <defs>
+  <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="svg_8">
+   <stop stop-color="#DA5E78" offset="0%"/>
+   <stop stop-color="#B43043" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="24%" y1="21%" x2="79%" y2="78%" id="svg_20">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="24%" y1="21%" x2="79%" y2="78%" id="svg_32">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="24%" y1="21%" x2="79%" y2="78%" id="svg_44">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="24%" y1="21%" x2="79%" y2="78%" id="svg_56">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="41%" y1="21%" x2="60%" y2="78%" id="svg_68">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="41%" y1="21%" x2="60%" y2="78%" id="svg_80">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="NaN" y1="21%" x2="NaN" y2="78%" id="svg_110">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+  <linearGradient x1="NaN" y1="21%" x2="NaN" y2="78%" id="svg_109">
+   <stop stop-color="#FA7F67" offset="0%"/>
+   <stop stop-color="#FA375B" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="root" contentwidth="336.9" contentheight="114">
+   <rect class="background" height="8840" width="12000" y="-4436" x="-5881" fill="#ffffff" id="svg_111"/>
+   <g class="content" id="content" transform="matrix(1 0 0 1 76.55 0)">
+    <g class="icon" id="svg_112">
+     <svg height="95" version="1.1" width="81" x="177" y="163" preserveAspectRatio="none" id="svg_1" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="120 180 81 95" id="svg_5" xmlns="http://www.w3.org/2000/svg">
+       <path d="m200.58,249.156l0.264,0.423l-40.163,25.102l-0.102,0.163l-0.08,-0.05l-0.078,0.05l-0.102,-0.163l-40.163,-25.101l0.264,-0.424l40.08,25.049l40.08,-25.05l0,0.001zm-39.83,-68.906l0,43.111l39.5,24.688l0,-43.218l0.5,0l0,43.53l0.094,0.06l-0.094,0.149l0,0.535l-0.5,0l0,-0.467l-39.5,-24.689l0,46.867l-0.5,0l0,-46.867l-39.5,24.689l0,0.467l-0.5,0l0,-0.534l-0.094,-0.15l0.094,-0.06l0,-43.53l0.5,0l0,43.218l39.5,-24.688l0,-43.111l0.5,0z" id="svg_6" fill="url(#svg_8)" fill-rule="nonzero"/>
+      </svg>
+     </svg>
+     <svg height="80" version="1.1" width="80" x="177" y="148" preserveAspectRatio="none" id="svg_9" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="120 165 80 80" id="svg_13" xmlns="http://www.w3.org/2000/svg">
+       <path d="m188.954,176.375l-10.835,46.074l-46.077,10.838l10.73,-46.186l46.182,-10.726zm-12.079,12.044l-26.607,6.18l-6.181,26.608l26.546,-6.243l6.242,-26.545z" id="svg_14" fill="url(#svg_20)" fill-rule="nonzero" transform="rotate(45 160.498 204.831)"/>
+      </svg>
+     </svg>
+     <svg height="8" version="1.1" width="8" x="174" y="229" preserveAspectRatio="none" id="svg_16" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="117 246 8 8" id="svg_21" xmlns="http://www.w3.org/2000/svg">
+       <circle id="svg_22" fill="url(#svg_32)" cx="121" cy="250" r="4"/>
+      </svg>
+     </svg>
+     <svg height="8" version="1.1" width="8" x="214" y="254" preserveAspectRatio="none" id="svg_24" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="157 271 8 8" id="svg_28" xmlns="http://www.w3.org/2000/svg">
+       <circle id="svg_29" fill="url(#svg_44)" cx="161" cy="275" r="4"/>
+      </svg>
+     </svg>
+     <svg height="8" version="1.1" width="8" x="254" y="229" preserveAspectRatio="none" id="svg_31" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="197 246 8 8" id="svg_36" xmlns="http://www.w3.org/2000/svg">
+       <circle id="svg_37" fill="url(#svg_56)" cx="201" cy="250" r="4"/>
+      </svg>
+     </svg>
+     <svg height="15" version="1.1" width="9" x="186" y="204" preserveAspectRatio="none" id="svg_39" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="129 221 9 15" id="svg_43" xmlns="http://www.w3.org/2000/svg">
+       <path id="svg_45" fill="url(#svg_68)" d="m129,221l8.958,5.529l0,9.471l-8.958,-5.529l0,-9.471z"/>
+      </svg>
+     </svg>
+     <svg height="15" version="1.1" width="9" x="200" y="213" preserveAspectRatio="none" id="svg_47" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="143 230 9 15" id="svg_51" xmlns="http://www.w3.org/2000/svg">
+       <path id="svg_52" fill="url(#svg_80)" d="m143,230l8.958,5.529l0,9.471l-8.958,-5.529l0,-9.471z"/>
+      </svg>
+     </svg>
+     <svg height="15" version="1.1" width="9" x="241" y="204" preserveAspectRatio="none" id="svg_54" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="184 221 9 15" id="svg_59" xmlns="http://www.w3.org/2000/svg">
+       <path id="svg_60" fill="url(#svg_110)" d="m192.95801,221l-8.958,5.529l0,9.471l8.958,-5.529l0,-9.471z"/>
+      </svg>
+     </svg>
+     <svg height="15" version="1.1" width="9" x="227" y="213" preserveAspectRatio="none" id="svg_62" xmlns="http://www.w3.org/2000/svg">
+      <desc>Created with Snap</desc>
+      <svg viewBox="170 230 9 15" id="svg_66" xmlns="http://www.w3.org/2000/svg">
+       <path id="svg_67" fill="url(#svg_109)" d="m178.95801,230l-8.958,5.529l0,9.471l8.958,-5.529l0,-9.471z"/>
+      </svg>
+     </svg>
+    </g>
+    <g id="icon_name_and_slogan_gap"/>
+    <g class="name_and_slogan" id="name_and_slogan_id">
+     <g class="name" id="svg_131">
+      <g id="nameDefaultGroup"/>
+     </g>
+     <g class="slogan" id="svg_133">
+      <g id="sloganDefaultGroup"/>
+     </g>
+    </g>
+    <g class="border" id="svg_134"/>
+   </g>
+   <defs id="defs" transform="translate(109 26) translate(27 -4) translate(-17 -38)">
+    <mask id="mask" xmlns="http://www.w3.org/2000/svg">
+     <rect id="showAll" fill="white" x="55" y="164" width="88" height="114"/>
+     <rect id="hideNameBg" fill="black" x="0" y="0" width="0" height="0" stroke-width="2" stroke="black"/>
+     <rect id="hideSloganBg" fill="black" x="0" y="0" width="0" height="0" stroke-width="2" stroke="black"/>
+    </mask>
+   </defs>
+  </g>
+ </g>
+</svg>
